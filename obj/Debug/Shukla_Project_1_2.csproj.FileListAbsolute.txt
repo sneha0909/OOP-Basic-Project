@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OOPInt-2020_Lab_Project_1\Shukla_Project_1_2\bin\Debug\Shukla_Project_1_2.exe.config
+C:\Users\user\source\repos\OOPInt-2020_Lab_Project_1\Shukla_Project_1_2\bin\Debug\Shukla_Project_1_2.exe
+C:\Users\user\source\repos\OOPInt-2020_Lab_Project_1\Shukla_Project_1_2\bin\Debug\Shukla_Project_1_2.pdb
+C:\Users\user\source\repos\OOPInt-2020_Lab_Project_1\Shukla_Project_1_2\obj\Debug\Shukla_Project_1_2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OOPInt-2020_Lab_Project_1\Shukla_Project_1_2\obj\Debug\Shukla_Project_1_2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOPInt-2020_Lab_Project_1\Shukla_Project_1_2\obj\Debug\Shukla_Project_1_2.exe
+C:\Users\user\source\repos\OOPInt-2020_Lab_Project_1\Shukla_Project_1_2\obj\Debug\Shukla_Project_1_2.pdb
